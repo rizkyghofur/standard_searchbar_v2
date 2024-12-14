@@ -29,13 +29,13 @@ Add the following line to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  standard_searchbar: ^2.1.3
+  standard_searchbar: ^2.1.4
 ```
 
 or installing using your cmd or terminal:
 
 ```bash
-flutter pub add standart_searchbar_v2
+flutter pub add standard_searchbar_v2
 ```
 
 Then, run flutter pub get to install the package.

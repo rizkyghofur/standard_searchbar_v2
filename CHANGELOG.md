@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.4]
+
+- Fixed Docs
+
 ## [2.1.3]
 
 - Fixed Readme
